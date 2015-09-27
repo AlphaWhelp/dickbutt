@@ -1,5 +1,4 @@
-# dickbutt
-<h1>Dickbutt</h1><br /><br />
+# Dickbutt
 Use this library to add Dickbutt into your application.<br /><br />
 Quick FAQ:<br /><br />
 Q: What is the license information for this code?<br />
