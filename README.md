@@ -1,5 +1,6 @@
 # Dickbutt
 Use this library to add Dickbutt into your application.<br /><br />
+It is not recommended to include this library if using std<br /><br />
 Quick FAQ:<br /><br />
 Q: What is the license information for this code?<br />
 A: You are literally asking for legal information about dickbutt.<br /><br />
